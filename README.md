@@ -1,14 +1,15 @@
 There are steps in order to access the wedsite since its a local database:
 1. Download the files in here
 2. Download Xampp link: https://www.apachefriends.org/
-3. Go to localhost/phpmyadmin link: http://localhost/phpmyadmin/index.php
-4. Go to "New" and create a new database name "users_db"
-5. Import the database, "users_db.sql", file
-6. Go to your File Explorer and press your Local Disk (:C) which contains the files of Xampp
-7. Go to Xampp Folder -> htdocs
-8. Place FINAL WEBDEV folder there
-9. Input this link: http://localhost/FINAL%20WEBDEV/
-10. Then you can explore the website
+3. Start the Apache and MySQL
+4. Go to localhost/phpmyadmin link: http://localhost/phpmyadmin/index.php
+5. Go to "New" and create a new database name "users_db"
+6. Import the database, "users_db.sql", file
+7. Go to your File Explorer and press your Local Disk (:C) which contains the files of Xampp
+8. Go to Xampp Folder -> htdocs
+9. Place FINAL WEBDEV folder there
+10. Input this link: http://localhost/FINAL%20WEBDEV/
+11. Then you can explore the website
 
 (Optional) We cant place this api key due to github wont accept this key, since they emailed us saying its an exposed api key
 In order to access the full animes, follow these steps:
